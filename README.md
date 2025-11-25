@@ -2,9 +2,9 @@
 
 A fully responsive calendar application built with React, Typescript, and Tailwind CSS. Features month and weak views with event management capabilities.
 
-## Lice Demo
+## Lice Demo Link
 
-[url]
+(https://calendar-view-nandni.vercel.app/)
 
 ## Installation
 
